@@ -16,7 +16,8 @@
         },
         "DeLicenseApiKey": {
             "Description" : "PA license deactivation API Key",
-            "Type" : "String"
+            "Type" : "String",
+            "Default" : "ChangeMeOnlyIfBOYL"
         },
         "UserName": {
             "Description" : "Palo Alto Login User Name",
